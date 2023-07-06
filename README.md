@@ -14,11 +14,7 @@ The Review page
 
 In IntelliJ, you can run the Java application and open http://localhost:8080 to view it in your browser.
 
-Then, In the project directory, you can run:
-
-`npm start`
-
-Runs the app in the development mode and open http://localhost:3000 to view it in your browser.
+Then, In the project directory, you can run `npm start` open http://localhost:3000 to view it in your browser.
 
 The page will reload when you make changes.
 You may also see any lint errors in the console.
